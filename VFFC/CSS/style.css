@@ -1,0 +1,167 @@
+body
+{
+    background: #303030;
+    color:#ffffff;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    display: block;
+    margin: auto;
+
+}
+
+.error { 
+    color:rgba(228, 78, 78, 0.808); margin-top:10px; margin-bottom:10px;
+}
+
+/*atrybuty classy resp*/
+.resp{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:center;
+}
+
+#logo{
+    background: white;
+    float: left;
+    width: auto;
+    height: 20px;
+    padding: 10px;
+    opacity: 0.8;
+    color: black;
+}
+/*nav */
+nav
+{
+    background: #b43342;
+    margin-top: 1px;
+    padding: 10px;
+    height: 20px;
+    opacity: 0.8;
+}
+
+nav a
+{
+    color: #000040;
+    text-align: center;
+    text-decoration: none;
+    width: auto;
+    border-radius: 5px;
+}
+
+a:hover
+{
+    background-color: #999;
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+a:visited
+{
+    color: white;
+}
+a:link
+{
+    color: white;
+}
+a:active
+{
+    color: white;
+}
+/* inne sekcje */
+
+/* section index */
+#intro{
+    background: white;
+    opacity: 0.6;
+    color: black ;
+}
+#bg{
+    background-image: url(../images/lambo1.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 1em;
+    width: auto;
+    height: 500px;
+    transform: scale(0.9);
+}
+/*kolor paska social INDEX:*/
+
+.colorindex ul{
+    background-color: rgb(243, 151, 42);
+}
+
+/* section logowanie */
+#bglog{
+    background-image: url(../images/m8.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 1em;
+    width: auto;
+    height: 720px;
+    transform: scale(0.9);
+}
+/*kolor paska social LOGOWANIE:*/
+
+.colorlog ul{
+    background-color: rgb(57, 98, 84);
+}
+/* social media */
+
+#manu2{
+    padding: 10px;
+    margin: 50px;
+}
+.social-menu ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    border-radius: 5px;
+}
+
+.social-menu ul li {
+    margin:0 15px;
+
+}
+
+.social-menu ul li .fa {
+    font-size: 25px;
+    line-height: 50px;
+
+}
+.social-menu ul li .fa {
+    color: black;
+    font-size: 25px;
+    line-height: 50px;
+    transition: .5s;
+}
+.social-menu ul li .fa:hover {
+    color: #ffffff;
+
+}
+.social-menu ul li a {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    opacity: 0.8;
+    text-align: center;
+    transition: 0.5s;
+    transform: translate(0,0px);
+}
+.social-menu ul li a:hover {
+    transform: rotate(0deg) skew(0deg) translate(0, -10px);
+}
+.social-menu ul li:nth-child(1) a:hover {
+    background-color: #4d94ff;
+}
+.social-menu ul li:nth-child(2) a:hover {
+    background-color: #ff1a75;
+}
+.social-menu ul li:nth-child(3) a:hover {
+    background-color: #e4405f;
+}

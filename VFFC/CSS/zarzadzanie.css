@@ -1,0 +1,50 @@
+   /*SEKCJA DLA ZARZASZANIE.PHP */
+   table {
+       border-collapse: collapse;
+       margin         : 25px 0;
+       font-size      : 0.9em;
+       font-family    : sans-serif;
+       min-width      : 400px;
+       box-shadow     : 0 0 20px rgba(0, 0, 0, 0.15);
+   }
+
+   .naglowki {
+           
+           background-color: #065e4c;
+           color           : #ffffff;
+       
+   }
+
+   #w1 {
+       width: 50px;
+   }
+
+   #w2 {
+       min-width: 100px;
+   }
+
+   .border {
+       border      : 3px black;
+       border-style: solid;
+   }
+
+   tr.border td {
+       border-bottom: 1px solid black;
+   }
+
+   th,
+   td {
+       padding: 12px 15px;
+   }
+
+   tbody tr {
+       border-bottom: 1px solid #dddddd;
+   }
+
+   tbody tr:nth-of-type(even) {
+       background-color: #928888;
+   }
+
+   tbody tr:last-of-type {
+       border-bottom: 3px solid black;
+   }

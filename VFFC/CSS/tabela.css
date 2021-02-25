@@ -1,0 +1,30 @@
+	/* ustawienia dla całej tabeli: */
+table {
+	background: white;
+	color: black;
+	text-align: center;
+	width: 96%;
+	margin: 2%;
+	border: 2px solid silver;
+	border-radius: 10px;
+	}
+
+	/*ustawienie tytułu tabeli:*/
+caption {
+	font-size:150%
+	}
+	/*formatowanie części nagłowkowej i stopki tabeli: */
+tfoot, thead {
+color: #ffffff;
+}
+/*formatowanie pojedynczych komórek zwykłych i nagłówkowych: */
+td, th {
+    border:1pt solid silver;
+	opacity: 0.8;
+	border-radius: 10px;
+    justify-content: stretch;
+}
+input{
+width: auto;
+}
+

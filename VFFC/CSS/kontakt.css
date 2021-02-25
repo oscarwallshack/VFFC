@@ -1,0 +1,21 @@
+.kontakt {
+background: white;
+opacity: 0.8;
+}
+#kontakt{
+margin: 100px;
+color: black;
+padding-bottom: 25px;
+padding-right: 25px;
+padding-left: 25px;
+}
+#bg{
+    background-image: url(../images/rx7.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 1em;
+    height: 607px;
+}
+.social-menu ul{
+background-color: rgb(255, 121, 109)
+}

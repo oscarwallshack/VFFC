@@ -1,0 +1,13 @@
+#galeria{
+	padding: 10px;
+    font-size: 18px;
+    opacity: 0.8;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:center;
+}
+.social-menu ul{
+    background-color: rgb(166, 63, 63); 
+    margin: 50px;
+    }

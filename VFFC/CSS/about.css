@@ -1,0 +1,22 @@
+#about{
+opacity:0.8;
+color: black;
+flex-basis: 1000px;
+}
+
+#opis{
+background: white;
+padding-bottom: 20px;
+margin: 100px;
+opacity: 0.7;
+}
+.bg{
+    background-image: url(../images/horse.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 1em;
+    height: 500px;
+}
+.social-menu ul{
+    background-color: rgb(163, 169, 167)
+    }

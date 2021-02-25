@@ -1,0 +1,99 @@
+#mainConatainer {
+    display              : flex;
+    flex-wrap            : wrap;
+    justify-content      : center;
+    background-image     : url(../images/r34.jpg);
+    background-repeat    : no-repeat;
+    background-position  : center;
+    background-position-y: 1em;
+}
+
+/*kolor paska social:*/
+
+.colorform ul {
+    background-color: rgb(20, 114, 98);
+}
+
+.formContainer {
+    padding: 0%;
+}
+
+.form {
+    background-color: rgba(0, 0, 0, 0.582);
+    max-width       : 470px;
+    padding         : 40px;
+    table-layout    : fixed;
+    width           : 100%;
+    transform       : scale(0.9);
+
+}
+
+table {
+    line-height   : 25px;
+    min-width     : 370px;
+    background    : white;
+    opacity       : 0.8;
+    color         : black;
+    border        : solid silver;
+    border-radius : 10px;
+    border-spacing: 10px;
+}
+
+
+/*ustawienie tytułu tabeli:*/
+
+caption {
+    font-size     : 100%;
+    color         : white;
+    padding-bottom: 10px;
+}
+
+
+/*formatowanie części nagłowkowej i stopki tabeli: */
+
+tfoot,
+thead {
+    color    : black;
+    font-size: 80%
+}
+
+
+/*formatowanie pojedynczych komórek zwykłych i nagłówkowych: */
+
+input {
+    border-radius: 10px;
+}
+
+td,
+th {
+    opacity      : 0.8;
+    border-radius: 10px;
+}
+
+.select {
+    display       : inline-block;
+    vertical-align: top;
+    overflow      : hidden;
+    width         : auto;
+    border-radius : 10px;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin            : 0;
+}
+
+.btn{ 
+    background: none;
+    opacity: 0.8;
+    border-radius: 0px;
+    border: none;
+    color: white;
+}
+button {
+    width : 100px;
+    height: 35px;
+    cursor: pointer;
+    background-color: rgba(43, 30, 104, 0.233);
+}
