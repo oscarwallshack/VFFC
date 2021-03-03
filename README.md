@@ -10,12 +10,11 @@ Jako admin możemy sprawdzić zlecenia które znajdują się w bazie i w szybki 
 
 Prezentacja: 
 
-![index](https://user-images.githubusercontent.com/78379610/109852727-609e8d00-7c55-11eb-858b-1b891088316f.png)
-![galeria](https://user-images.githubusercontent.com/78379610/109852824-7d3ac500-7c55-11eb-8141-e9c5b8d5c9ec.png)
-![formularz kontaktowy](https://user-images.githubusercontent.com/78379610/109852842-8461d300-7c55-11eb-905f-1e6073048f74.png)
-![kontakt](https://user-images.githubusercontent.com/78379610/109852894-9479b280-7c55-11eb-8e38-6175391b68e9.png)
-![about](https://user-images.githubusercontent.com/78379610/109852888-93488580-7c55-11eb-9809-96d699895cae.png)
-![zaloguj](https://user-images.githubusercontent.com/78379610/109852900-96437600-7c55-11eb-8bc2-59704ea79085.png)
-![zarzadzanie](https://user-images.githubusercontent.com/78379610/109852903-980d3980-7c55-11eb-8675-bf360fd6c79b.png)
-![todo](https://user-images.githubusercontent.com/78379610/109852897-95aadf80-7c55-11eb-93bd-c5128ae22aaa.png)
-
+![index](https://user-images.githubusercontent.com/78379610/109853478-39948b00-7c56-11eb-8ed2-da1155951e1d.png)
+![galeria](https://user-images.githubusercontent.com/78379610/109853467-36010400-7c56-11eb-99d0-06e5d46f32a7.png)
+![formularz kontaktowy](https://user-images.githubusercontent.com/78379610/109853466-34cfd700-7c56-11eb-858e-779e12aa1f00.png)
+![kontakt](https://user-images.githubusercontent.com/78379610/109853481-3a2d2180-7c56-11eb-9e59-7eaec2fe80db.png)
+![about](https://user-images.githubusercontent.com/78379610/109853464-34374080-7c56-11eb-9382-da2902794d19.png)
+![zaloguj](https://user-images.githubusercontent.com/78379610/109853489-3b5e4e80-7c56-11eb-95e2-398f0e16d069.png)
+![zarzadzanie](https://user-images.githubusercontent.com/78379610/109853493-3bf6e500-7c56-11eb-8a5f-64b33a6dee59.png)
+![todo](https://user-images.githubusercontent.com/78379610/109853485-3ac5b800-7c56-11eb-8c15-acdcc2a09947.png)
