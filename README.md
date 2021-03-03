@@ -10,3 +10,5 @@ Login Andrzej Haslo qwerty
 Jako admin możemy sprawdzić zlecenia które znajdują się w bazie i w szybki sposób odhaczyć zrealizowane zlecenia poprzez ich usunięcie z bazy. Również jako admin mamy dostęp do Todo listy.
 
 W folderze znajduję się plik sql do zaimportowania bazy danych do MySql.
+
+![image](https://user-images.githubusercontent.com/78379610/109850753-23d19680-7c53-11eb-828e-530320c125ea.png)
